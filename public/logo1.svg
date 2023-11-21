@@ -1,0 +1,26 @@
+<svg
+  width="100"
+  height="100"
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 100 100"
+  fill="#000000"
+>
+  <!-- Car Body -->
+  <rect x="10" y="30" width="80" height="40" fill="#3498db" />
+
+  <!-- Car Roof -->
+  <rect x="20" y="20" width="60" height="20" fill="#2c3e50" />
+
+  <!-- Car Windows -->
+  <rect x="30" y="25" width="15" height="15" fill="#ecf0f1" />
+  <rect x="55" y="25" width="15" height="15" fill="#ecf0f1" />
+
+  <!-- Car Wheels -->
+  <circle cx="25" cy="75" r="10" fill="#2c3e50" />
+  <circle cx="75" cy="75" r="10" fill="#2c3e50" />
+
+  <!-- Text: Car Buddy -->
+  <text x="50" y="90" text-anchor="middle" fill="#ecf0f1" font-size="10">
+    Car Buddy
+  </text>
+</svg>
